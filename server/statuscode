@@ -1,0 +1,11 @@
+Use 200 → for successful GET requests.
+
+Use 201 → for successful creation POST requests.
+
+Use 400 → for missing/invalid input from client.
+
+Use 401 → for invalid or missing authentication.
+
+Use 403 → for valid user but forbidden action.
+
+Use 500 → for unexpected server errors
